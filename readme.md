@@ -4,6 +4,6 @@
 
 <p> trabalho apresentando a situação de um restaurante e seu sistema de pedidos </p>
 
-### *Este abaixo é o nosso mascote*
+<h5> *Este abaixo é o nosso mascote* </h5>
 
 <img src="./image/cat.jpg" style="width:150px;height:auto">

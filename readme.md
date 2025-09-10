@@ -1,0 +1,9 @@
+# Trabalho de recuperação
+
+<h1>Boehme Cucina</h1>
+
+<p> trabalho apresentando a situação de um restaurante e seu sistema de pedidos </p>
+
+### *Este abaixo é o nosso mascote*
+
+<img src="./image/cat.jpg" style="width:150px;height:auto">
